@@ -5,3 +5,6 @@
 print("coding is not that bad")
 ```
 I just created a heading
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
